@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SafeerAhmFarooqi
 - 👀 I’m interested in web app development
-- 🌱 I’m currently learning laravel 8,java
-- 💞️ I’m looking to collaborate on c++,java,web development
+- 🌱 I’m currently Developing web apps in laravel framework
+- 💞️ I’m looking to collaborate on laravel,php,jquerry,bootstrap,laravel blade template
 - 📫 How to reach me saf_farooqi@hotmail.com
 
 <!---
